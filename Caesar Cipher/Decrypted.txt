@@ -1,0 +1,16 @@
+Congratulations on finishing your final project! I hope you enjoyed this class and have a good summer. May the Force be with you!
+
+Now for some programming quotes:
+
+David Letterman: "How did you know so much about computers?"
+Grace Hopper: "I didn't, it was the first one."
+
+Jeremy Keith: "Java is to JavaScript as ham is to hamster."
+
+Oscar Godson: "One of the best programming skills you can have is knowing when to walk away for awhile."
+
+Louis Srygley: "Without requirements or design, programming is the art of adding bugs to an empty text file."
+
+Brain W. Kernighan: "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."
+
+

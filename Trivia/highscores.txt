@@ -1,0 +1,10 @@
+15
+CON
+5
+ABC
+4
+DEF
+3
+GHI
+2
+JKL
